@@ -2,7 +2,7 @@
 Brands Analysis
 
 Step1 : To retrieve 5000 posts from 
-You can find the scrapper here in Web Scrapper.ipynb 
+You can find the scrapper here in Web Scrapper.ipynb and all the posts after scrapping are stored in 'posts.csv'
 
 Step2 : Mapping the models with their respective brand names using the 'car-list.csv' mapping file. 
 Replacing the characteristics mentioned in the posts with matching 5 hand-picked attributes (practicality, performance, features and look, durability, desire)
